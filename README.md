@@ -1,2 +1,2 @@
 # sonnentesttask
-Resolution and implementation of the program of batteries functionality. 
+Implementation of a program that calculates the setpoint of battery storage systems
